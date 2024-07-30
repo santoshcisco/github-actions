@@ -10,9 +10,9 @@ jobs:
     - name: Run multiple scripts
       run: |
         echo Welcome again buddy!
-        ls -l,
-        pwd,
+        ls -l
+        pwd
         df -h
-        
+        ls ~/
       
     
